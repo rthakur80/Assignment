@@ -1,0 +1,9 @@
+1. Application is spring boot application.
+2. Download the code from GIT
+3. Import the project as maven project in eclipse.
+4. Build the project.
+5. Run the class PaitentApplication as java application. 
+6. Once the application started open the URL http://localhost:8080/
+7. This is the landing page and by default it will show 3 Patient details.
+8. On the top of the page you will Find Add Patient, Search box and show all buttons.
+9. This page will display all the patients along with edit and delete link.
